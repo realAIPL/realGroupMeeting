@@ -3,7 +3,7 @@
 ## 2022.04.07
 Session 1: ZHAO Yan's Paper reading 
 1. (ICML'21) Training data-efficient image transformers & distillation through attention [[paper]](http://proceedings.mlr.press/v139/touvron21a/touvron21a.pdf)
-2. Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper]](https://arxiv.org/pdf/2006.03677)
+2. (ICLR'21) Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper]](https://arxiv.org/pdf/2006.03677)
 
 Session 2: LIAN Hailun's Paper reading
 1. (ICANN'07) Multi-dimensional Recurrent Neural Networks [[paper]](https://arxiv.org/pdf/0705.2011.pdf)  
