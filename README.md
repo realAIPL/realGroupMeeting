@@ -2,13 +2,13 @@
 
 ## 2022.04.07
 Session 1: ZHAO Yan's Paper reading 
-1. (ICML'21) Training data-efficient image transformers & distillation through attention [[paper]](./paper/20220407/ZHAO_Yan/1_ICML21.pdf)
-2. Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper]](./paper/20220407/ZHAO_Yan/2.pdf)
+1. (ICML'21) Training data-efficient image transformers & distillation through attention [[paper]](http://proceedings.mlr.press/v139/touvron21a/touvron21a.pdf)
+2. Visual Transformers: Token-based Image Representation and Processing for Computer Vision [[paper]](https://arxiv.org/pdf/2006.03677)
 
 Session 2: LIAN Hailun's Paper reading
-1. (ICANN'07) Multi-dimensional Recurrent Neural Networks [[paper]](./paper/20220407/LIAN_Hailun/1_ICANN.pdf)  
-2. (ICLR'16) Grid Long Short-Term Memory [[paper]](./paper/20220407/LIAN_Hailun/2_ICLR16_GRID-lstm.pdf)
-3. (NIPS'17) PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs [[paper]](./paper/20220407/LIAN_Hailun/3_NIPS17_predrnn.pdf)
-4. (TPAMI'21) PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning [[paper]](./paper/20220407/LIAN_Hailun/4_TPAMI21_predRNN-v2.pdf)
+1. (ICANN'07) Multi-dimensional Recurrent Neural Networks [[paper]](https://arxiv.org/pdf/0705.2011.pdf)  
+2. (ICLR'16) Grid Long Short-Term Memory [[paper]](https://arxiv.org/pdf/1507.01526.pdf)
+3. (NIPS'17) PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs [[paper]](https://proceedings.neurips.cc/paper/2017/file/e5f6ad6ce374177eef023bf5d0c018b6-Paper.pdf)
+4. (TPAMI'21) PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning [[paper]](https://arxiv.org/pdf/2103.09504.pdf?ref=https://githubhelp.com)
 
 
