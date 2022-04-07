@@ -2,7 +2,7 @@
 
 ## 2022.04.07
 Session 1: ZHAO Yan's Paper reading 
-1. (ICML'21) Training data-efficient image transformers & distillation through attention [paper](./paper/20220407/ZHAO_Yan/1_ICML21.pdf)
+1. (ICML'21) Training data-efficient image transformers & distillation through attention [[paper]](./paper/20220407/ZHAO_Yan/1_ICML21.pdf)
 2. Visual Transformers: Token-based Image Representation and Processing for Computer Vision [paper](./paper/20220407/ZHAO_Yan/2.pdf)
 
 Session 2: LIAN Hailun's Paper reading
