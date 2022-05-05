@@ -4,7 +4,7 @@
 Session 1: SHI Mengxin's Paper reading 
 
 1. (SIGGRAPH'99) A Morphable Model for the Synthesis of 3D Faces [[paper]](https://dl.acm.org/doi/pdf/10.1145/311535.311556)
-2. (TPAM'03) Face recognition based on fitting a 3D morphable model DOI: 10.1109/TPAMI.2003.1227983 [[paper]](https://ieeexplore.ieee.org/abstract/document/1227983)
+2. (TPAM'03) Face recognition based on fitting a 3D morphable model [[paper]](https://ieeexplore.ieee.org/abstract/document/1227983) DOI: 10.1109/TPAMI.2003.1227983 
 3. (ACM TOG'10) Example-Based Facial Rigging [[paper]](https://infoscience.epfl.ch/record/149375/files/siggraph2010EBFR.pdf)
 4. (TPAMI'2019) Face Alignment in Full Pose Range: A 3D Total Solution [[paper]](https://arxiv.org/pdf/1804.01005)
 5. (IEEE Transactions on Visualization and Computer Graphics, 2014) FaceWarehouse: A 3D Facial Expression Database for Visual Computing [[paper]](http://kunzhou.net/2012/facewarehouse-tr.pdf)
@@ -19,7 +19,7 @@ Session 2: YANG Hao’s Paper reading
 ## 2022.04.21
 Session 1: LIU Jiateng's Paper reading
 1. (AAAI'21) Local Relation Learning for Face Forgery Detection [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-1964.ChenS.pdf)
-2. 2. (IJCAI'21) Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain [[paper]](https://www.ijcai.org/proceedings/2021/0164.pdf)
+2. (IJCAI'21) Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain [[paper]](https://www.ijcai.org/proceedings/2021/0164.pdf)
 3. (TIP'21) Joint Local and Global Information Learning with Single Apex Frame Detection for Micro-expression Recognition [[paper]](https://www.researchgate.net/profile/Yante-Li-2/publication/346745417_Joint_Local_and_Global_Information_Learning_With_Single_Apex_Frame_Detection_for_Micro-Expression_Recognition/links/5ff6f64c92851c13fef3e06f/Joint-Local-and-Global-Information-Learning-With-Single-Apex-Frame-Detection-for-Micro-Expression-Recognition.pdf)
 
 Session2:Zhu Jie's Paper reading
