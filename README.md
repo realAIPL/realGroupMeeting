@@ -18,7 +18,7 @@ Session 2: YANG Hao’s Paper reading
 ## 2022.04.21
 Session 1: LIU Jiateng's Paper reading
 1. (AAAI'21) Local Relation Learning for Face Forgery Detection [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-1964.ChenS.pdf)
-2. (IJCAI'21) Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain [[paper]](https://www.ijcai.org/proceedings/2021/0164.pdf)
+2. 2. (IJCAI'21) Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain [[paper]](https://www.ijcai.org/proceedings/2021/0164.pdf)
 3. (TIP'21) Joint Local and Global Information Learning with Single Apex Frame Detection for Micro-expression Recognition [[paper]](https://www.researchgate.net/profile/Yante-Li-2/publication/346745417_Joint_Local_and_Global_Information_Learning_With_Single_Apex_Frame_Detection_for_Micro-Expression_Recognition/links/5ff6f64c92851c13fef3e06f/Joint-Local-and-Global-Information-Learning-With-Single-Apex-Frame-Detection-for-Micro-Expression-Recognition.pdf)
 
 Session2:Zhu Jie's Paper reading
