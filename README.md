@@ -2,6 +2,7 @@
 
 ## 2022.05.05
 Session 1: SHI Mengxin's Paper reading 
+
 1. (SIGGRAPH'99) A Morphable Model for the Synthesis of 3D Faces [[paper]](https://dl.acm.org/doi/pdf/10.1145/311535.311556)
 2. (TPAM'03) Face recognition based on fitting a 3D morphable model DOI: 10.1109/TPAMI.2003.1227983 [[paper]](https://ieeexplore.ieee.org/abstract/document/1227983)
 3. (ACM TOG'10) Example-Based Facial Rigging [[paper]](https://infoscience.epfl.ch/record/149375/files/siggraph2010EBFR.pdf)
@@ -10,9 +11,9 @@ Session 1: SHI Mengxin's Paper reading
 6. (CVPR'20) FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf)
 
 Session 2: YANG Hao’s Paper reading
-1.(IJCAI’19) Topology Optimization based Graph Convolutional Network [[paper]](https://www.ijcai.org/proceedings/2019/0563.pdf)
-2.(TNNLS’21) Topology and Content Co-Alignment Graph Convolutional Learning [[paper]](https://arxiv.org/pdf/2003.12806)
-3.(NIPS’21) SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks [[paper]](https://proceedings.neurips.cc/paper/2021/file/bf499a12e998d178afd964adf64a60cb-Paper.pdf)
+1. (IJCAI’19) Topology Optimization based Graph Convolutional Network [[paper]](https://www.ijcai.org/proceedings/2019/0563.pdf)
+2. (TNNLS’21) Topology and Content Co-Alignment Graph Convolutional Learning [[paper]](https://arxiv.org/pdf/2003.12806)
+3. (NIPS’21) SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks [[paper]](https://proceedings.neurips.cc/paper/2021/file/bf499a12e998d178afd964adf64a60cb-Paper.pdf)
 
 
 ## 2022.04.21
