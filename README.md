@@ -1,5 +1,20 @@
 # realGroupMeeting
 
+## 2022.05.19
+Session 1: Xingxun Jiang’s Paper reading
+
+1. (Information Sciences’22) Clip-aware expressive feature learning for video-based facial expression recognition. [[paper]](https://cvlab-liuyuanyuan.github.io/pdf/journalpaper/Clip-aware%20Expressive%20Feature%20Learning%20for%20Video-based%20Facial%20Expression.pdf)
+2. (MM’21) Former-DFER: Dynamic Facial Expression Recognition Transformer. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475292) DOI: 10.1145/3474085.3475292
+3. (CVPR’22) FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in the Wild. [[paper]](https://arxiv.org/pdf/2203.09463.pdf)
+
+
+Session 2: Yushun Xiao’s Paper reading
+
+1. (NIPS’20) Subgraph neural networks [[paper]](https://proceedings.neurips.cc/paper/2020/file/5bca8566db79f3788be9efd96c9ed70d-Paper.pdf)
+2. (NIPS’20) Can graph neural networks count substructures? [[paper]](https://proceedings.neurips.cc/paper/2020/file/75877cb75154206c4e65e76b88a12712-Paper.pdf)
+3. (NIPS’21) Accurate learning of graph representations with graph multiset pooling. [[paper]](https://arxiv.org/pdf/2102.11533)
+4. (JMLR’21) Learning laplacian matrix from graph signals with sparse spectral representation.  [[paper]](https://www.jmlr.org/papers/volume22/19-944/19-944.pdf)
+
 ## 2022.05.05
 Session 1: SHI Mengxin's Paper reading 
 
