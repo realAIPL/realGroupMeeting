@@ -1,12 +1,14 @@
 # realGroupMeeting
 
-## 2022.05.19
+## 2022.06.02
 Session 1: Xingxun Jiang’s Paper reading
 
 1. (Information Sciences’22) Clip-aware expressive feature learning for video-based facial expression recognition. [[paper]](https://cvlab-liuyuanyuan.github.io/pdf/journalpaper/Clip-aware%20Expressive%20Feature%20Learning%20for%20Video-based%20Facial%20Expression.pdf)
 2. (MM’21) Former-DFER: Dynamic Facial Expression Recognition Transformer. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475292) DOI: 10.1145/3474085.3475292
 3. (CVPR’22) FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in the Wild. [[paper]](https://arxiv.org/pdf/2203.09463.pdf)
-
+4. (ICCVW'21) Prior Aided Streaming Network for Multi-task Affective Analysis. [Champion of ABAW2] [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/papers/Zhang_Prior_Aided_Streaming_Network_for_Multi-Task_Affective_Analysis_ICCVW_2021_paper.pdf)
+5. (CVPR'21) Learning a Facial Expression Embedding Disentangled from Identity. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_a_Facial_Expression_Embedding_Disentangled_From_Identity_CVPR_2021_paper.pdf)
+6. (CVPR'19) A Compact Embedding for Facial Expression Similarity. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)
 
 Session 2: Yushun Xiao’s Paper reading
 
