@@ -2,10 +2,16 @@
 
 ## 2022.06.15
 Session: Mengting Wei’s Paper reading
+
+
 Part1: The theory of Uncertainty
 1. (PMLR'15 - Theory) Weight Uncertainty in Neural Networks. [[paper]](http://proceedings.mlr.press/v37/blundell15.pdf)
 2. (PMLR’16 - Theory) Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning. [[paper]](http://proceedings.mlr.press/v48/gal16.pdf)
+
+
 Part2: The application of Uncertainty
+
+
 3. (BMVC'15 - 引用量983- Application) Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding. [[paper]](https://arxiv.org/pdf/1511.02680.pdf?source=post_page---------------------------)
 4. (AAAI'22 - Application) Uncertainty-Driven Dehazing Network. [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-2838.HongM.pdf)
 5. (AAAI'21 - Application) Uncertainty-Aware Few-Shot Image Classification. [[paper]](https://arxiv.org/pdf/2010.04525.pdf)
