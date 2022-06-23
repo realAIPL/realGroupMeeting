@@ -1,7 +1,7 @@
 # realGroupMeeting
 
 ## 2022.06.15
-Session: Mengting Wei’s Paper reading
+Session: WEI Mengting’s Paper reading
 
 
 Part1: The theory of Uncertainty
@@ -17,7 +17,7 @@ Part2: The application of Uncertainty
 5. (AAAI'21 - Application) Uncertainty-Aware Few-Shot Image Classification. [[paper]](https://arxiv.org/pdf/2010.04525.pdf)
 
 ## 2022.06.02
-Session 1: Xingxun Jiang’s Paper reading
+Session 1: JIANG Xingxun’s Paper reading
 
 1. (Information Sciences’22) Clip-aware expressive feature learning for video-based facial expression recognition. [[paper]](https://cvlab-liuyuanyuan.github.io/pdf/journalpaper/Clip-aware%20Expressive%20Feature%20Learning%20for%20Video-based%20Facial%20Expression.pdf)
 2. (MM’21) Former-DFER: Dynamic Facial Expression Recognition Transformer. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475292) DOI: 10.1145/3474085.3475292
@@ -26,7 +26,7 @@ Session 1: Xingxun Jiang’s Paper reading
 5. (CVPR'21) Learning a Facial Expression Embedding Disentangled from Identity. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_a_Facial_Expression_Embedding_Disentangled_From_Identity_CVPR_2021_paper.pdf)
 6. (CVPR'19) A Compact Embedding for Facial Expression Similarity. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)
 
-Session 2: Yushun Xiao’s Paper reading
+Session 2: XIAO Yushun’s Paper reading
 
 1. (NIPS’20) Subgraph neural networks [[paper]](https://proceedings.neurips.cc/paper/2020/file/5bca8566db79f3788be9efd96c9ed70d-Paper.pdf)
 2. (NIPS’20) Can graph neural networks count substructures? [[paper]](https://proceedings.neurips.cc/paper/2020/file/75877cb75154206c4e65e76b88a12712-Paper.pdf)
@@ -55,7 +55,7 @@ Session 1: LIU Jiateng's Paper reading
 2. (IJCAI'21) Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain [[paper]](https://www.ijcai.org/proceedings/2021/0164.pdf)
 3. (TIP'21) Joint Local and Global Information Learning with Single Apex Frame Detection for Micro-expression Recognition [[paper]](https://www.researchgate.net/profile/Yante-Li-2/publication/346745417_Joint_Local_and_Global_Information_Learning_With_Single_Apex_Frame_Detection_for_Micro-Expression_Recognition/links/5ff6f64c92851c13fef3e06f/Joint-Local-and-Global-Information-Learning-With-Single-Apex-Frame-Detection-for-Micro-Expression-Recognition.pdf)
 
-Session2:Zhu Jie's Paper reading
+Session2:ZHU Jie's Paper reading
 1. (CVPR'14)Large-scale video classification with convolutional neural networks [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
 2. (NIPS'14)A Two-stream convolutional networks for action recognition in videos [[paper]](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)
 3. (ICCV'15)Learning spatiotemporal features with 3d convolutional networks [[paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
